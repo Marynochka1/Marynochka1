@@ -1,6 +1,6 @@
 # Resume: QA Manual Trainee
 
-Hello! I'm [Your Name], a beginner in software quality assurance (QA Manual Trainee). I have foundational knowledge in manual testing, skills in writing test cases, analyzing requirements, and creating bug reports. I'm eager to grow and improve my skills in the QA field.
+Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee). I have foundational knowledge in manual testing, skills in writing test cases, analyzing requirements, and creating bug reports. I'm eager to grow and improve my skills in the QA field.
 
 ## Skills
 
@@ -8,8 +8,10 @@ Hello! I'm [Your Name], a beginner in software quality assurance (QA Manual Trai
 - **Test Case Creation**: Ability to create simple and structured test cases for functionality checks.
 - **Bug Reporting**: Documenting bugs with clear descriptions and reproducible steps.
 - **Tools**:
-  - **Issue Tracking**: JIRA (basic knowledge)
-  - **API Testing**: Postman (basic skills)
+  - **Issue Tracking**: Jira, Mantis 
+  - **Test Management**: TestRail, TestLink
+  - **API Testing**: Postman, Charles Proxy
+  - **Performance Testing**: JMeter
   - **Documentation**: Google Docs
   - **Version Control**: GitHub (for portfolio and project storage)
 
