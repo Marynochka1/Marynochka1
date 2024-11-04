@@ -1,7 +1,58 @@
-## HELLO 👋
+# Resume: QA Manual Trainee
 
-<!--
-**Marynochka1/Marynochka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Your Name], a beginner in software quality assurance (QA Manual Trainee). I have foundational knowledge in manual testing, skills in writing test cases, analyzing requirements, and creating bug reports. I'm eager to grow and improve my skills in the QA field.
 
-I am hard-working, responsible, proactive, and attentive to details, easy adaptable to the different situations. The complex project isn’t issue for me because I am highly resistant to stress. I am a quick learner and always try to find the solution of the problem by myself. I successfully finished the QA manual study of Hillel IT School and QATestLab Training Center. I open for the new work and opportunities. Currently I am looking for a job as QA junior.
->
+## Skills
+
+- **Manual Testing Fundamentals**: Understanding of functional and regression testing methods.
+- **Test Case Creation**: Ability to create simple and structured test cases for functionality checks.
+- **Bug Reporting**: Documenting bugs with clear descriptions and reproducible steps.
+- **Tools**:
+  - **Issue Tracking**: JIRA (basic knowledge)
+  - **API Testing**: Postman (basic skills)
+  - **Documentation**: Google Docs
+  - **Version Control**: GitHub (for portfolio and project storage)
+
+## Projects
+
+### Project 1: Web Application Testing
+**Description**: In this learning project, I tested a basic web application. This project allowed me to practice functional testing and test case creation.
+- **Testing Types**: Functional, regression.
+- **Tools**: JIRA for bug tracking, Google Docs for documenting test cases.
+- **Tasks**:
+  - Created test cases based on application requirements.
+  - Identified and documented bugs in the application.
+  - Collaborated with team members to discuss testing outcomes.
+
+### Project 2: Basic API Testing
+**Description**: Gained foundational knowledge in API testing using Postman.
+- **Testing Types**: API testing (basic GET and POST requests).
+- **Tools**: Postman
+- **Tasks**:
+  - Learned the basics of API structure and created test requests to verify server responses.
+  - Tested positive and negative scenarios for API endpoints.
+
+## Courses and Certifications
+
+- **"Introduction to Software Testing" Course** - [Online Platform, e.g., Udemy or Coursera], [Year]
+- **API Testing Basics** - [Online Platform, e.g., Udacity or EdX], [Year]
+
+## Education
+
+- **[Your University/School]** – [Degree, e.g., Bachelor's in IT or Associate in Computer Science], [Year]
+
+## Development Goals
+
+- Deepen my knowledge of web and mobile application testing.
+- Begin learning basic automated testing techniques.
+- Expand my knowledge of tools like JIRA and Postman.
+
+## Contact
+
+- **Email**: example@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+
+---
+
+Thank you for reviewing my profile! I'm open to new learning opportunities and excited to further develop my skills in QA.
