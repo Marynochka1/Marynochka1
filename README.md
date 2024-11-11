@@ -40,7 +40,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 ## Courses and Certifications
 
-- **"Introduction to Software Testing" Course** - [Online Platform, e.g., Udemy or Coursera], [Year]
+- **"The Fundamentals of Software Testing** - [QATestLab Training Center], [2023]
 - **API Testing Basics** - [Online Platform, e.g., Udacity or EdX], [Year]
 
 ## Education
