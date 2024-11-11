@@ -16,7 +16,11 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
   - **Version Control**: GitHub (for portfolio and project storage)
 
 ## Test documentation
--**
+-**Test cases**:(https://www.linkedin.com/in/maryna-kopytina/)
+-**Check lists**: 
+-**Bug reports**:
+-**User Story**:
+
 ### Project 1: Web Application Testing
 **Description**: In this learning project, I tested a basic web application. This project allowed me to practice functional testing and test case creation.
 - **Testing Types**: Functional, regression.
