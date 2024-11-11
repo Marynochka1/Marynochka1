@@ -16,7 +16,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
   - **Version Control**: GitHub (for portfolio and project storage)
 
 ## Test documentation
-- **[Test cases](https://www.linkedin.com/in/maryna-kopytina/)**
+- **[Test cases]([https://drive.google.com/file/d/14dh5BzRfr13YpV2AQW9CBC06dN_1IHSn/view?usp=drive_link/])**
 - **Check lists**: 
 - **Bug reports**:
 - **User Story**:
@@ -40,8 +40,8 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 ## Courses and Certifications
 
-- **"The Fundamentals of Software Testing** - [QATestLab Training Center], [2023]
-- **API Testing Basics** - [Online Platform, e.g., Udacity or EdX], [Year]
+- **"The Fundamentals of Software Testing** - [QATestLab Training Center], 
+- **QA Manual** - [Hillel IT School], 
 
 ## Education
 
