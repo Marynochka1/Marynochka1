@@ -16,9 +16,8 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
   - **Version Control**: GitHub (for portfolio and project storage)
 
 ## Test documentation
-- [Test cases](https://drive.google.com/file/d/14dh5BzRfr13YpV2AQW9CBC06dN_1IHSn/view?usp=drive_link/)(https://docs.google.com/spreadsheets/d/1DN6oNiFrnx9RjvHHikYptwEuvSIFbkWT/edit?usp=drive_link&ouid=101291800812946917617&rtpof=true&sd=true)
-- **Check lists**: 
-- **Bug reports**:
+- [Test cases](https://drive.google.com/file/d/14dh5BzRfr13YpV2AQW9CBC06dN_1IHSn/view?usp=drive_link/)
+- [Check lists](https://docs.google.com/spreadsheets/d/1QSbZ90mETmdB9lF6UeoPf5X6GPsV4SOj/edit?usp=drive_link&ouid=101291800812946917617&rtpof=true&sd=true)
 - **User Story**:
 
 ### Project 1: Web Application Testing
