@@ -16,7 +16,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
   - **Version Control**: GitHub (for portfolio and project storage)
 
 ## Test documentation
-- **[Test cases]:(https://www.linkedin.com/in/maryna-kopytina/)**
+- **[Test cases](https://www.linkedin.com/in/maryna-kopytina/)**
 - **Check lists**: 
 - **Bug reports**:
 - **User Story**:
