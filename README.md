@@ -41,10 +41,10 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
   - Learned the basics of API structure and created test requests to verify server responses.
   - Tested positive and negative scenarios for API endpoints.
 
-## Courses and Certifications
+## Courses 
 
-- **"The Fundamentals of Software Testing** - [QATestLab Training Center], 
-- **QA Manual** - [Hillel IT School], 
+- [The Fundamentals of Software Testing](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - **QATestLab Training Center**, 
+- [QA Manual](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - **Hillel IT School**, 
 
 ## Education
 
