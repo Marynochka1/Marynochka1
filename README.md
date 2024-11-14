@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio QA Manual
 
 Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee). I have foundational knowledge in manual testing, skills in writing test cases, analyzing requirements, and creating bug reports. I'm eager to grow and improve my skills in the QA field.
 
@@ -24,8 +24,9 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 - [Bug reports Jira](https://drive.google.com/file/d/1mAb-lXZ-CuIy2HGR_jjSfaB8bGn0OAgP/view?usp=sharing)
 - [User Story](https://docs.google.com/document/d/1WQpnhP5ZVebeM717utyOOQn89KD70XT1/edit?usp=sharing&ouid=101291800812946917617&rtpof=true&sd=true)
 
-**API Collection**
+## API Collection
 -[Api Postman](https://github.com/Marynochka1/api-collections)
+
 ## Courses 
 
 - [The Fundamentals of Software Testing](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - QATestLab Training Center 
