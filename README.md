@@ -1,4 +1,4 @@
-# Resume: QA Manual Trainee
+# Portfolio
 
 Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee). I have foundational knowledge in manual testing, skills in writing test cases, analyzing requirements, and creating bug reports. I'm eager to grow and improve my skills in the QA field.
 
