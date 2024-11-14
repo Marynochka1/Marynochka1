@@ -26,8 +26,8 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 ## Courses 
 
-- [The Fundamentals of Software Testing](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - QATestLab Training Center, 
-- [QA Manual](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - Hillel IT School, 
+- [The Fundamentals of Software Testing](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - QATestLab Training Center 
+- [QA Manual](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - Hillel IT School 
 
 ## Education
 
@@ -42,8 +42,8 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 ## Contact
 
 - **Email**: example@example.com
-- **LinkedIn**: (https://www.linkedin.com/in/maryna-kopytina/)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/maryna-kopytina/)
+- [GitHub] [Your GitHub Profile](https://github.com/yourusername)
 
 ---
 
