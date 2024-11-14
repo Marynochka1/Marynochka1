@@ -24,27 +24,10 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 - [Bug reports Jira](https://drive.google.com/file/d/1mAb-lXZ-CuIy2HGR_jjSfaB8bGn0OAgP/view?usp=sharing)
 - [User Story](https://docs.google.com/document/d/1WQpnhP5ZVebeM717utyOOQn89KD70XT1/edit?usp=sharing&ouid=101291800812946917617&rtpof=true&sd=true)
 
-### Project 1: Web Application Testing
-**Description**: In this learning project, I tested a basic web application. This project allowed me to practice functional testing and test case creation.
-- **Testing Types**: Functional, regression.
-- **Tools**: JIRA for bug tracking, Google Docs for documenting test cases.
-- **Tasks**:
-  - Created test cases based on application requirements.
-  - Identified and documented bugs in the application.
-  - Collaborated with team members to discuss testing outcomes.
-
-### Project 2: Basic API Testing
-**Description**: Gained foundational knowledge in API testing using Postman.
-- **Testing Types**: API testing (basic GET and POST requests).
-- **Tools**: Postman
-- **Tasks**:
-  - Learned the basics of API structure and created test requests to verify server responses.
-  - Tested positive and negative scenarios for API endpoints.
-
 ## Courses 
 
-- [The Fundamentals of Software Testing](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - **QATestLab Training Center**, 
-- [QA Manual](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - **Hillel IT School**, 
+- [The Fundamentals of Software Testing](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - QATestLab Training Center, 
+- [QA Manual](https://drive.google.com/file/d/1St00Abe7ef0MQq4gIaHuzto5znUdfDsM/view?usp=drive_link) - Hillel IT School, 
 
 ## Education
 
@@ -59,7 +42,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 ## Contact
 
 - **Email**: example@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/maryna-kopytina/)
+- **LinkedIn**: (https://www.linkedin.com/in/maryna-kopytina/)
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 ---
