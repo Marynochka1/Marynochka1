@@ -25,7 +25,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 - [User Story](https://docs.google.com/document/d/1WQpnhP5ZVebeM717utyOOQn89KD70XT1/edit?usp=sharing&ouid=101291800812946917617&rtpof=true&sd=true)
 
 ## API Collection
-- [Api Postman](https://github.com/Marynochka1/api-collections)
+- [API Postman](https://github.com/Marynochka1/api-collections)
 
 ## Courses 
 
@@ -44,7 +44,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 ## Contact
 
-- **Email**: example@example.com
+- myr2403@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/maryna-kopytina/)
 - [GitHub](https://github.com/Marynochka1/)
 
