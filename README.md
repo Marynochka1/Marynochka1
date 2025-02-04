@@ -46,7 +46,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 - **Email**: example@example.com
 - [LinkedIn](https://www.linkedin.com/in/maryna-kopytina/)
-- [GitHub] [Your GitHub Profile](https://github.com/yourusername)
+- [GitHub] [Your GitHub Profile]([https://github.com/yourusernam](https://github.com/Marynochka1/)
 
 ---
 
