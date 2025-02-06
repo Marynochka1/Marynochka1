@@ -34,8 +34,9 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 ## Education
 
-- **[Your University/School]** – [Master's degree in Project Management ], [2011]
-[Postgraduate degree in Project and Program Management ], [2011-2014]
+- **[International  ]**
+- [Master's degree in Project Management ], [2011]
+- Postgraduate degree in Project and Program Management ], [2011-2014]
 
 ## Development Goals
 
