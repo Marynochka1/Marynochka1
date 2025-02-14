@@ -35,8 +35,8 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 ## Education
 
 
-- Master's degree in Project Management, [2011]
-- Postgraduate degree in Project and Program Management , [2014]
+- Master's degree in Project Management, 2011
+- Postgraduate degree in Project and Program Management , 2014
 
 ## Development Goals
 
