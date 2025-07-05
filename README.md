@@ -46,7 +46,7 @@ Hello! I'm Maryna, a beginner in software quality assurance (QA Manual Trainee).
 
 ## Contact
 
-- [Email]marynakq@gmail.com
+- marynakq@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/maryna-kopytina/)
 - [GitHub](https://github.com/Marynochka1/)
 
